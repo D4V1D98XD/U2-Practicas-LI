@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Pila Push Pop.vcxproj" Id="a70424be-a417-40e7-b72f-1ffd6ba217bb" />
+</Solution>

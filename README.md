@@ -7,7 +7,7 @@ Repositorio con las prácticas en ensamblador (MASM + Irvine32) de la materia.
 | | |
 |---|---|
 | **Materia** | Lenguajes de Interfaz |
-| **Unidad** | _(completar)_ |
+| **Unidad** | II|
 | **Alumno** | Leonardo David Garcia Leyva |
 | **Horario** | 9:00 - 10:00 |
 | **Docente** | Dr. José Luis Medina Jiménez |
